@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1698620747 source:c:\projetos\futglut\main.cpp
+	<GLUT/freeglut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+
+1692821309 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1692821309 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
