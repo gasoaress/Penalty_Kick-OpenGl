@@ -1,5 +1,5 @@
 # Penalty_Kick-OpenGl 
-# ---------------------------------------------------------------
+
 # Estrutura Geral:
 O código em C faz uso da biblioteca OpenGL para criar um jogo de cobrança de pênaltis em 3D. Ele apresenta um ambiente gráfico interativo onde o jogador pode interagir com a cena.
 
