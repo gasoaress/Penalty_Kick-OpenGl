@@ -1,5 +1,5 @@
-# Penalty_Kick-OpenGl
-
+# Penalty_Kick-OpenGl 
+#-----------------------------------------------------------------------------------------------------
 # Estrutura Geral:
 O código em C faz uso da biblioteca OpenGL para criar um jogo de cobrança de pênaltis em 3D. Ele apresenta um ambiente gráfico interativo onde o jogador pode interagir com a cena.
 
@@ -13,7 +13,7 @@ Existem funções para desenhar elementos gráficos, como o campo, bola, gol, le
 O código controla a animação da bola em direção ao gol, bem como a animação do cubo que se move na frente do gol.
 
 # Controle de Teclado:
-O jogador pode interagir com o jogo usando teclas do teclado. Por exemplo, 'A' e 'D' são usados para mover a bola lateralmente, 'Espaço' inicia o chute, 'Q' e 'W' alteram o zoom da cena, 'R' reinicia o jogo e a seta permite rotacionar a câmera.
+O jogador pode interagir com o jogo usando o teclado. Por exemplo, 'A' e 'D' são usados para mover a bola lateralmente, 'Espaço' inicia o chute, 'Q' e 'W' alteram o zoom da cena, 'R' reinicia o jogo e as setas permitem rotacionar a câmera.
 
 # Exibição de Texto:
 O código exibe informações na tela, como o número de gols, erros e chutes, usando a função DesenhaTexto.
